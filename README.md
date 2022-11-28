@@ -1,16 +1,18 @@
 # bytebank
 
-A new Flutter project.
+## Sobre
 
-## Getting Started
+Respositório dedicado ao desenvolvimento de aplicações em <strong>Flutter</strong>.
 
-This project is a starting point for a Flutter application.
+----
 
-A few resources to get you started if this is your first Flutter project:
+### Projetos
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Projeto tem como objetivo colocar em prática e entender a teoria de conceitos básicos no desenvolvimento utilizando <strong>Flutter</strong> e <strong>Dart</strong>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+- <strong>bytebank</strong>
+
+Projeto desenvolvido com intuito de implementar uma lista de tranferência de um banco digital.
+
+
